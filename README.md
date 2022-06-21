@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+Working live site:
+https://3d-objects-with-react-three-lib.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
